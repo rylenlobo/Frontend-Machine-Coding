@@ -13,8 +13,14 @@ You are given a 2D array, where each `1` in the array represents an empty box to
 
 ## Example Mockup
 
-1. **Shape with Empty Boxes:**
+[
+[1, 1, 1],
+[1, 0, 0],
+[1, 1, 1],
+];
+
+1. **Shape with Empty Boxes:**<br>
    ![alt text](image.png)
 
-1. **Shape with some filled boxes:**
+2. **Shape with some filled boxes:**<br>
    ![alt text](image-1.png)
